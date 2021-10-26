@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace Parcial
 {
+
+    //INTEGRANTES 
+    // - NATHALY SARAI RODRIGUEZ SILVA 
+    // - MERARY JULISSA ARAUJO VELASQUEZ 
     public partial class Form1 : Form
     {
         public Form1()
