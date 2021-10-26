@@ -16,5 +16,18 @@ namespace Parcial
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            register register = new register();
+            register.Show();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            logincs login = new logincs();
+            login.Show();
+        }
     }
 }
